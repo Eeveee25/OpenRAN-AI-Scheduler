@@ -49,8 +49,6 @@ pip install -r requirements.txt
 - [Kaggle Cellular Network Analysis Data](https://www.kaggle.com/datasets/vishnuvarthanraja/cellular-network-analysis)
 - [Colosseum O-RAN COMMAG Dataset](https://colosseum.net/datasets/commag)
 
-*Place downloaded datasets in the `data/` directory as described in the data loading scripts.*
-
 ### 4. Run the Simulation
 
 Open and execute the main notebook:
@@ -110,5 +108,15 @@ pip install -r requirements.txt
 ## License
 
 MIT License – see `LICENSE` file for details.
+
+## Acknowledgments and Citation
+
+This project utilizes the dataset made available from the ColO-RAN research platform. If you use this project or its data, please cite the original paper as requested by the authors.
+
+**Dataset Repository:**
+[wineslab/colosseum-oran-coloran-dataset](https://github.com/wineslab/colosseum-oran-coloran-dataset)
+
+**Citation:**
+M. Polese, L. Bonati, S. D'Oro, S. Basagni, and T. Melodia, "ColO-RAN: Developing Machine Learning-based xApps for Open RAN Closed-loop Control on Programmable Experimental Platforms," *IEEE Transactions on Mobile Computing*, vol. 22, no. 10, pp. 5787-5800, July 2022.
 
 ---
